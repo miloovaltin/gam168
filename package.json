@@ -1,16 +1,16 @@
 {
-"name": "gam168",
-"theme": "gam168",
-"version": "5.2.2",
-"description": "gam168 สมัครสมาชิกเว็บไซต์พนันเว็บตรง สมาชิกเยอะ ให้เครดิตฟรี",
-"keywords": [
-"gam168",
-"gam168 เครดิตฟรี",
-"gam168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/gam168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "gam168",
+  "theme": "gam168",
+  "version": "5.3.0",
+  "description": "gam168 สมัครสมาชิกเว็บไซต์พนันเว็บตรง สมาชิกเยอะ ให้เครดิตฟรี",
+  "keywords": [
+    "gam168",
+    "gam168 เครดิตฟรี",
+    "gam168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/gam168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
